@@ -1,9 +1,7 @@
 <?php
 
 # Logo
-if (file_exists(ROOTDIR.'/assets/img/logo.png')) $pdf->Image(ROOTDIR.'/assets/img/logo.png', 20, 25, 75);
-elseif (file_exists(ROOTDIR.'/assets/img/logo.jpg')) $pdf->Image(ROOTDIR.'/assets/img/logo.jpg', 20, 25, 75);
-else $pdf->Image(ROOTDIR.'/assets/img/placeholder.png', 20, 25, 75);
+$pdf->Image(ROOTDIR.'/templates/m247/img/logo.png', 20, 25, 75);
 
 # Company Details
 $pdf->SetFont($pdfFont,'',13);
