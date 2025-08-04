@@ -245,7 +245,7 @@ $pdf->Cell(140,4,"NW1 3AN, United Kingdom",'R',1,'L',1);
 $pdf->SetFont('helvetica','B',9);
 $pdf->Cell(40,4,"Account Name:",'L',0,'L',1);
 $pdf->SetFont('helvetica','',9);
-$pdf->Cell(140,4,"UK Web Solutions Direct Limited",'R',1,'L',1);
+$pdf->Cell(140,4,"M247 Global Limited",'R',1,'L',1);
 $pdf->SetFont('helvetica','B',9);
 $pdf->Cell(40,4,"Sort Code:",'L',0,'L',1);
 $pdf->SetFont('helvetica','',9);

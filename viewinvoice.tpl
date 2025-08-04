@@ -254,7 +254,7 @@
                         </tr>
                         <tr>
                             <th>Account Name:</th>
-                            <td>UK Web Solutions Direct Limited</td>
+                            <td>M247 Global Limited</td>
                         </tr>
                         <tr>
                             <th>Sort Code:</th>
